@@ -1,6 +1,5 @@
-# Repositório do Desafio de Projeto da dio sobre git 
-Desafio de projeto sobre Git/github
-
+#Desafio de Projeto da dio sobre git/github
+Repositório criado para o desafio de projeto 
 
 ## Links 
 [Guia Markdown](https://www.markdownguide.org/getting-started/)
